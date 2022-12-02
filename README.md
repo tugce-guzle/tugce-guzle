@@ -30,10 +30,10 @@
 
 ------
 
-<div align=center><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tugce-guzle&show_icons=true&locale=en&layout=compact" alt="tugce-guzle" /></div>
+<div align=center><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tugceguzle&show_icons=true&locale=en&layout=compact" alt="tugceguzle" /></div>
 <br>
 
-<div align=center>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tugce-guzle&show_icons=true&locale=en" alt="tugce-guzle" /></div>
+<div align=center>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tugceguzle&show_icons=true&locale=en" alt="tugceguzle" /></div>
 <br>
-<div align=center><img src="https://github-readme-streak-stats.herokuapp.com/?user=tugce-guzle&" alt="tugce-guzle" /></div>
+<div align=center><img src="https://github-readme-streak-stats.herokuapp.com/?user=tugceguzle&" alt="tugceguzle" /></div>
 <br>
